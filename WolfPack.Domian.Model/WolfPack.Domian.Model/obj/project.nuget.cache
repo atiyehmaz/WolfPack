@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZ0w2ph9sb6pHI65dbS8k2tZrddLLfLolr1F+r+d42Oj6NQumasewCqfvBmpBWT7DbVGJ6qHocualVFanErI4w==",
+  "success": true,
+  "projectFilePath": "/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/WolfPack.Domian.Model.csproj",
+  "expectedPackageFiles": [
+    "/home/atiye/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/bin/Debug/net5.0/WolfPack.Application.deps.json
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/bin/Debug/net5.0/WolfPack.Application.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/bin/Debug/net5.0/ref/WolfPack.Application.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/bin/Debug/net5.0/WolfPack.Application.pdb
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/bin/Debug/net5.0/WolfPack.Domian.Model.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/bin/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/bin/Debug/net5.0/WolfPack.Domian.Model.pdb
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/bin/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.pdb
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/obj/Debug/net5.0/WolfPack.Application.csproj.AssemblyReference.cache
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/obj/Debug/net5.0/WolfPack.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/obj/Debug/net5.0/WolfPack.Application.AssemblyInfoInputs.cache
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/obj/Debug/net5.0/WolfPack.Application.AssemblyInfo.cs
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/obj/Debug/net5.0/WolfPack.Application.csproj.CoreCompileInputs.cache
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/obj/Debug/net5.0/WolfPack.Application.csproj.CopyComplete
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/obj/Debug/net5.0/WolfPack.Application.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/obj/Debug/net5.0/ref/WolfPack.Application.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Application/obj/Debug/net5.0/WolfPack.Application.pdb

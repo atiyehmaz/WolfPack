@@ -1,0 +1,12 @@
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Contract/bin/Debug/net5.0/WolfPack.Contract.deps.json
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Contract/bin/Debug/net5.0/WolfPack.Contract.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Contract/bin/Debug/net5.0/ref/WolfPack.Contract.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Contract/bin/Debug/net5.0/WolfPack.Contract.pdb
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Contract/obj/Debug/net5.0/WolfPack.Contract.csproj.AssemblyReference.cache
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Contract/obj/Debug/net5.0/WolfPack.Contract.GeneratedMSBuildEditorConfig.editorconfig
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Contract/obj/Debug/net5.0/WolfPack.Contract.AssemblyInfoInputs.cache
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Contract/obj/Debug/net5.0/WolfPack.Contract.AssemblyInfo.cs
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Contract/obj/Debug/net5.0/WolfPack.Contract.csproj.CoreCompileInputs.cache
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Contract/obj/Debug/net5.0/WolfPack.Contract.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Contract/obj/Debug/net5.0/ref/WolfPack.Contract.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Contract/obj/Debug/net5.0/WolfPack.Contract.pdb

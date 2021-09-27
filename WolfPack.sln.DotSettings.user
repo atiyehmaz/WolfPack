@@ -1,0 +1,75 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=22c142ca_002D36a6_002D4d41_002D9cd9_002D95958be7434d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Constructor_Of_Wolf_Should_Throw_DomainException_When_Name_Is_Greater_Than_MaxLength #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Throw_DomainException_When_Name_Is_Greater_Than_MaxLength&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_BankAccount_Should_Generate_Id&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Generate_Id&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3a16bd01_002D47f3_002D4ede_002Dafe5_002D4cf4cca3bf54/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Constructor_Of_Wolf_Should_Throw_DomainException_When_Name_Is_Greater_Than_MaxLength" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Throw_DomainException_When_Name_Is_Greater_Than_MaxLength&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_BankAccount_Should_Generate_Id&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Generate_Id&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Generate_Id_Null&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Throw_DomainException_When_Code_Is_Null_Or_WhiteSpace&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Throw_DomainException_When_Code_Is_Greater_Than_MaxLength&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Wolves.WolfRepositoryTests.Add_Of_BankAccountRepository_Should_Add_BankAccount&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=65d93de9_002D0ce7_002D49d6_002Dbe1d_002D8222fb9db4fd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Constructor_Of_Wolf_Should_Generate_Id" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Generate_Id&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Wolves.WolfRepositoryTests.Add_Of_WolfRepository_Should_Add_BankAccount&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Wolves.WolfRepositoryTests.Get_Of_WolfRepository_Should_Get_Wolf&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Wolves.WolfRepositoryTests.GetByCode_Of_WolfRepository_Should_Get_Wolf&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Wolves.WolfRepositoryTests.Delete_Of_WolfRepository_Should_Delete_Wolf&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Wolves.WolfApplicationServiceTests.CreateWolf_Of_WolfApplicationService_Should_Add_Wolf&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Wolves.WolfApplicationServiceTests.Get_Of_WolfuntApplicationService_Should_Get_Wolf&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Wolves.WolfApplicationServiceTests.GetByCode_Of_WolfApplicationService_Should_Get_Wolf&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Wolves.WolfApplicationServiceTests.Get_Of_WolfApplicationService_Should_Get_Wolf&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Wolves.WolfApplicationServiceTests.Remove_Of_WolfApplicationService_Should_Remove_Wolf&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=984b1763_002D4a9c_002D4def_002Dab7d_002Db91cac6b3a95/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Throw_DomainException_When_Name_Is_Greater_Than_MaxLength&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_BankAccount_Should_Generate_Id&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Generate_Id&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Generate_Id_Null&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Throw_DomainException_When_Code_Is_Null_Or_WhiteSpace&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Wolves.WolfRepositoryTests.Add_Of_BankAccountRepository_Should_Add_BankAccount&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Wolves.WolfRepositoryTests.Get_Of_WolfRepository_Should_Get_Wolf&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Wolves.WolfRepositoryTests.Add_Of_WolfRepository_Should_Add_BankAccount&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Wolves.WolfRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Wolves.WolfApplicationServiceTests.GetAll_Of_ConceptTypeApplicationService_Should_Get_ConceptTypes&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Wolves.WolfApplicationServiceTests.Get_Of_WolfApplicationService_Should_Get_Wolf&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Packs.PackTests.Constructor_Of_Pack_Should_Generate_Id&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Packs.PackTests.Constructor_Of_Pack_Should_Not_Be_Id_Null&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Not_Be_Id_Null&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Throw_DomainException_When_Code_Is_Greater_Than_MaxLength&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Packs.PackTests.Constructor_Of_Pack_Should_Throw_DomainException_When_Name_Is_Null_Or_WhiteSpace&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Packs.PackTests.Constructor_Of_Pack_Should_Throw_DomainException_When_Name_Is_Greater_Than_MaxLength&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Packs.PackRepositoryTests.Add_Of_PackRepository_Should_Add_Pack&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Packs.PackRepositoryTests.Get_Of_PackRepository_Should_Get_Pack&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Packs.PackRepositoryTests.GetByName_Of_PackRepository_Should_Get_Pack&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Packs.PackRepositoryTests.Delete_Of_PackRepository_Should_Delete_Pack&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Packs.PackRepositoryTests.GetAll_Of_PackRepository_Should_Get_Packs&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Packs.PackApplicationServiceTests.CreateWolf_Of_PackApplicationService_Should_Add_Pack&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Packs.PackApplicationServiceTests.Get_Of_PackApplicationService_Should_Get_Pack&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Packs.PackApplicationServiceTests.GetByName_Of_PackApplicationService_Should_Get_Pack&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Packs.PackApplicationServiceTests.CreatePack_Of_PackApplicationService_Should_Add_Pack&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Packs.PackApplicationServiceTests.Remove_Of_PackApplicationService_Should_Remove_Pack&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Packs.PackApplicationServiceTests.GetAll_Of_PackApplicationService_Should_Get_Pack&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Packs.PackRepositoryTests.Update_Of_PersonageGroupRepository_Should_Update_PersonageGroup&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5E11FDAF-C5E0-4204-86E2-963E82706B5C::net5.0::WolfPack.Infrastructure.MongoDbRepository.Test.Packs.PackRepositoryTests.Update_Of_PackRepository_Should_Update_Pack&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Packs.PackApplicationServiceTests.AddPersonageToGroup_Of_PersonageGroupApplicationService_Should_Add_Personage_To_PersonageGroup&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Packs.PackApplicationServiceTests.AddWolf_Of_PackApplicationService_Should_Add_Wolf_To_Pack&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C19FAC34-06B0-4901-AF64-7EA938FC3B52::net5.0::WolfPack.Application.Test.Packs.PackApplicationServiceTests.Edit_Of_PersonageGroupApplicationService_Should_Change_PersonageGroup&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c2c3d4ba_002D5b46_002D4cd6_002Dae84_002D83264ebeb385/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Constructor_Of_Wolf_Should_Not_Be_Id_Null" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B56DB185-010A-4FC3-BB12-1284927312B2::net5.0::WolfPack.Domian.Model.Test.Wolves.WolfTests.Constructor_Of_Wolf_Should_Not_Be_Id_Null&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

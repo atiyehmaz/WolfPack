@@ -1,0 +1,15 @@
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/bin/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.deps.json
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/bin/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/bin/Debug/net5.0/ref/WolfPack.Infrastructure.MongoDbRepository.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/bin/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.pdb
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/bin/Debug/net5.0/WolfPack.Domian.Model.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/bin/Debug/net5.0/WolfPack.Domian.Model.pdb
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/obj/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.csproj.AssemblyReference.cache
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/obj/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.GeneratedMSBuildEditorConfig.editorconfig
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/obj/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.AssemblyInfoInputs.cache
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/obj/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.AssemblyInfo.cs
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/obj/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.csproj.CoreCompileInputs.cache
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/obj/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.csproj.CopyComplete
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/obj/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/obj/Debug/net5.0/ref/WolfPack.Infrastructure.MongoDbRepository.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Infrastructure.MongoDbRepository/obj/Debug/net5.0/WolfPack.Infrastructure.MongoDbRepository.pdb

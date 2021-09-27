@@ -1,0 +1,12 @@
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/obj/Debug/net5.0/WolfPack.Domian.Model.csproj.AssemblyReference.cache
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/obj/Debug/net5.0/WolfPack.Domian.Model.GeneratedMSBuildEditorConfig.editorconfig
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/obj/Debug/net5.0/WolfPack.Domian.Model.AssemblyInfoInputs.cache
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/obj/Debug/net5.0/WolfPack.Domian.Model.AssemblyInfo.cs
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/obj/Debug/net5.0/WolfPack.Domian.Model.csproj.CoreCompileInputs.cache
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/bin/Debug/net5.0/WolfPack.Domian.Model.deps.json
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/bin/Debug/net5.0/WolfPack.Domian.Model.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/bin/Debug/net5.0/ref/WolfPack.Domian.Model.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/bin/Debug/net5.0/WolfPack.Domian.Model.pdb
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/obj/Debug/net5.0/WolfPack.Domian.Model.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/obj/Debug/net5.0/ref/WolfPack.Domian.Model.dll
+/home/atiye/Documents/WolfPack/WolfPack/WolfPack.Domian.Model/WolfPack.Domian.Model/obj/Debug/net5.0/WolfPack.Domian.Model.pdb
